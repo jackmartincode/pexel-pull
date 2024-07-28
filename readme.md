@@ -1,4 +1,4 @@
-# Pexels Collection Downloader
+# Pexel Pull - A Pexel Collection Downloader
 
 This script allows you to interact with your personal collections on Pexels. You can list all your collections and download all images from a specified collection with proper attributions.
 
